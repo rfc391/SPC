@@ -1,0 +1,6 @@
+{
+    "step_1": "Input SPC-encoded message.",
+    "step_2": "Remove formatting effects (e.g., commas, periods).",
+    "step_3": "Map numerical values back to characters.",
+    "output": "Decoded plaintext message."
+}

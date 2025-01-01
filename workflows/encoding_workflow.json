@@ -1,0 +1,7 @@
+{
+    "step_1": "Input plaintext message.",
+    "step_2": "Convert characters to numerical values.",
+    "step_3": "Insert key numbers for logical breaks.",
+    "step_4": "Apply formatting rules (commas, periods).",
+    "output": "SPC-encoded message."
+}
